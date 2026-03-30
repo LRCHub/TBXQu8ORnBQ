@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dangerously",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-03-30T00:21:06.947292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Week of Living Dangerously - Live",
+      "artist": "Steve Earle",
+      "has_synced": false,
+      "path": "select/01_The_Week_of_Living_Dangerously_-_Live_Steve_Earle.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Year Of Living Dangerously",
+      "artist": "Scissor Sisters",
+      "has_synced": true,
+      "path": "select/02_Year_Of_Living_Dangerously_Scissor_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dangerously In Love",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/03_Dangerously_In_Love_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dangerously in Love 2",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/04_Dangerously_in_Love_2_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dangerously",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/05_Dangerously_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dangerously",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/06_Dangerously_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dangerously",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/07_Dangerously_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dangerously In Love",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/08_Dangerously_In_Love_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dangerously In Love - Live from Headliners",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/09_Dangerously_In_Love_-_Live_from_Headliners_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dangerously in Love (live)",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/10_Dangerously_in_Love_(live)_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dangerously Easy",
+      "artist": "Olivia Dean",
+      "has_synced": true,
+      "path": "select/11_Dangerously_Easy_Olivia_Dean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dangerously In Love 2",
+      "artist": "Beyoncé",
+      "has_synced": false,
+      "path": "select/12_Dangerously_In_Love_2_Beyoncé.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dangerously",
+      "artist": "Babymonster",
+      "has_synced": false,
+      "path": "select/13_Dangerously_Babymonster.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dangerously",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/14_Dangerously_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dangerously in Love",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/15_Dangerously_in_Love_Destiny's_Child.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dangerously",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_Dangerously_Charlie_Puth.txt"
+    }
+  ]
+}
